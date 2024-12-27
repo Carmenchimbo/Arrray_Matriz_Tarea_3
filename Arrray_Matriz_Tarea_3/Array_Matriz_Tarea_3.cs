@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Clase Producto
+// Clase Producto *******
 public class Producto
 {
     // Propiedades de la clase
